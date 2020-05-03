@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ludo Team 9 Sub 1", "Ludo Team 9 Sub 1\Ludo Team 9 Sub 1.vcxproj", "{11EB3757-1F28-46CB-9164-766E568898A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Debug|x64.ActiveCfg = Debug|x64
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Debug|x64.Build.0 = Debug|x64
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Debug|x86.Build.0 = Debug|Win32
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Release|x64.ActiveCfg = Release|x64
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Release|x64.Build.0 = Release|x64
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Release|x86.ActiveCfg = Release|Win32
+		{11EB3757-1F28-46CB-9164-766E568898A1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094ACF0B-65A4-46B7-B67F-41966842F3E5}
+	EndGlobalSection
+EndGlobal
